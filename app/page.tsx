@@ -14,7 +14,6 @@ export default function Home() {
    <Features/> 
    <Advantages/>
    <Customizable/>
-   
    <Footer/>
     </main>
   );

@@ -10,12 +10,12 @@ import CleverIcon from "./Icons/cleverIcon";
 
 const Advantages = () => {
   return (
-    <div className="flex relative flex-col  lg:flex-row w-full tracking-wider  justify-evenly items-center max-w-screen gap-10 lg:gap-0  sm:text-center ">
-      <div className=" lg:w-1/2 flex flex-col justify-center items-left text-left lg:pl-40">
+    <div className="flex relative flex-col dark:text-white  lg:flex-row w-full tracking-wider  justify-evenly items-center max-w-screen gap-10 lg:gap-0  sm:text-center ">
+      <div className=" lg:w-1/2 flex flex-col justify-center items-left  lg:text-left lg:pl-40">
           <p className=" pl-32 font-medium tracking-wider text-4xl font-mono text-red-500">Advantages</p>
           <h1 className=" text-7xl font-extrabold leading-normal">Why Choose Urifry ?</h1>
           <p className="text-2xl font-bold pl-12 leading-10 flex items-center"><CleverIcon/>Clever Notifications</p>
-          <p className="font-semibold text-slate-700">
+          <p className="font-semibold dark:text-white  text-slate-700">
             Arcu at dictum sapien, mollis. Vulputate sit id accumsan,
             <br /> ultricies. In ultrices malesuada elit mauris etiam odio. Duis
             <br /> tristique lacus, et blandit viverra nisl velit. Sed mattis
