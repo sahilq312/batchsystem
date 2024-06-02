@@ -3,9 +3,9 @@ import Image2 from "@/public/assets/iPhone-13-Pro-Front (1).png"
 import Image3 from "@/public/assets/iPhone-13-Pro-Front (2).png"
 import Image from "next/image";
 import Background from "@/public/assets/Group 35887.png"
-import Arrow from "./arrow";
-import Watch from "./play";
-import Achivement from "./achivement";
+import Arrow from "./Icons/arrow";
+import Watch from "./Icons/play";
+import Achivement from "./Icons/achivement";
 
 
 const Main = () => {
